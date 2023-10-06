@@ -1,11 +1,10 @@
 # Projeto acadêmico para Mestrado em Ciências da Computação
 
-Este projeto tem o objetivo avaliar critérios de qualidade de software estabelecidos pela norma ISO/IEC 9126-1 em códigos-fonte implementados por alunos de turmas de programação. A solução utiliza a ferramenta Sonar para realizar a avaliação.
+Este projeto tem o objetivo avaliar critérios de qualidade de software estabelecidos pela norma ISO/IEC 9126-1 em códigos-fonte implementados por alunos de turmas de programação. A solução utiliza a ferramenta Sonar para realizar a avaliação, em uma infraestrutura de containers (Docker).
 
 # Tech stack
-> Docker
-> Sonar
-> Postgres 
+> Sonar 9.9
+> Postgres 15
 
 # Guia de uso
 
